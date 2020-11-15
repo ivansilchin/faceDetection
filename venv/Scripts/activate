@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\PROJECTS\Python\faceDetection\venv"
+VIRTUAL_ENV="D:\PROJECTS\Python\faceDetection\faceDetection\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
